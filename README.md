@@ -1,7 +1,5 @@
-Show progress bar on your shell script...
+Show a progress bar in your shell script...
 =================
-
-Make a progress bar GUI on terminal platform, be available on MAC OS
 
 [![IMAGE ALT TEXT HERE](https://i.giphy.com/zMdS9gDdCzfdS.gif)](https://www.youtube.com/watch?v=0Otp_vfbgv4)
 
@@ -9,7 +7,7 @@ Make a progress bar GUI on terminal platform, be available on MAC OS
 The MIT License (MIT)
 =================
 
-Copyright (c) 2014 Hai Kieu
+Copyright (c) 2018 Miroslav Vidović
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
